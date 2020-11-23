@@ -1,0 +1,28 @@
+.Login {
+    text-align: left;
+  }
+  
+  .Login-logo {
+    height: 5vmin;
+    align-items: left;
+    pointer-events: none;
+  }
+
+  
+  .Login-header {
+    background-color: #282c34;
+    min-height: 5vh;
+    display: inline-flexbox;
+    flex-direction: column;
+    align-items: left;
+    justify-content: none;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  .Signup-form {
+    align-items: baseline;
+    justify-content: none;
+    flex-direction: start;
+    text-align: vertical;
+    display: inline-block;
+  }

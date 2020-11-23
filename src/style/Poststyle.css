@@ -1,0 +1,60 @@
+
+form label {
+    margin: 20%;
+    padding:5px;
+
+}
+
+form input{
+    width: 70%;
+    padding:5px;
+    margin:2px;
+    height: 12px;
+    
+    
+}
+.content{
+    padding: 40px;
+    width: 52%;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.post-item{
+    background-color: blue;
+    border-radius: 20px;
+}
+.submit-button{
+    margin: 20px;
+    color: cadetblue;
+    padding:3%;
+    width:20%;
+    text-align: center;
+
+
+
+}
+
+
+.post-form{
+    background-color: blue;
+    width: 30%;
+    align-items: right;
+    align-self: right;
+    height: 50px;
+    padding: 5px;
+    margin:10px;
+    box-sizing: border-box;
+    display: block;
+    
+    
+    
+
+    
+}
+.allpost{
+    text-align: block;
+    
+}
